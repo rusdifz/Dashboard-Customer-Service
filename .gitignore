@@ -1,0 +1,16 @@
+# dotenv environment variables file
+
+
+# Dependency directories
+node_modules/
+node_modules\  
+
+# Compiled 
+dist
+public
+*.zip
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+script.txt
